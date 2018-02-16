@@ -22,8 +22,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-![Image](https://4.bp.blogspot.com/-ZI77RWzwuvs/Wd0UHlxG6UI/AAAAAAAAAGE/78sMn7ugEbcvArS4_blDvDaCMSkNiEXPACLcBGAs/s1600/Sin%2Bt%25C3%25ADtulo.png)
+[Youtube](https://www.youtube.com/watch?v=09r-78dfrvc) and ![Image](https://static.anime21.blog.br/2017/10/CAPA-.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
